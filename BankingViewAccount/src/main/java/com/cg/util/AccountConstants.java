@@ -2,6 +2,7 @@ package com.cg.util;
 
 public class AccountConstants {
 	
+	// Exceptions to be displayed in the UI page
 	
 	public static final String INVALID_ACCOUNT = "Invalid Account ID";
 	public static final String INVALID_CUSTOMER = "Invalid Customer ID";

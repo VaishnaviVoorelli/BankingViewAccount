@@ -15,7 +15,7 @@ import com.cg.service.AccountService;
 
 
 @RestController
-@CrossOrigin(origins= {"http://localhost:4200"})
+@CrossOrigin(origins= {"http://localhost:4200"})	 // linking up back-end and front-end
 public class AccountRestController {
 
 	@Autowired

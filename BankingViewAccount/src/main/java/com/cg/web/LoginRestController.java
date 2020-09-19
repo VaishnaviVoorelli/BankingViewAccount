@@ -21,7 +21,7 @@ import com.cg.exceptions.LoginException;
 import com.cg.service.ILoginService;
 
 @RestController
-@CrossOrigin(origins = {"http://localhost:4200"})
+@CrossOrigin(origins = {"http://localhost:4200"})	 // linking up back-end and front-end
 
 public class LoginRestController {
 	@Autowired

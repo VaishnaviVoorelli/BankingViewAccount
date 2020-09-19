@@ -7,6 +7,8 @@ import org.springframework.cloud.client.discovery.EnableDiscoveryClient;
 @EnableDiscoveryClient
 @SpringBootApplication
 
+// Execution of the sprint boot project starts here
+
 public class BankingViewAccountApplication {
 
 	public static void main(String[] args) {
